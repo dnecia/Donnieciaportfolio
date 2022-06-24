@@ -158,8 +158,5 @@
     align-items: center;
     padding: 685px;
     height: 500px;
-    color: white;
-  
-}
-@media screen and (max-width: 840px){
+    color: white; 
 }
