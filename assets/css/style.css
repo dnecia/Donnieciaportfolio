@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* Navbar */
+/* Navigation bar */
 .navbar{
     display: flex;
     justify-content: center;
@@ -55,7 +55,6 @@
 .main{
     display: flex;
     flex-direction: column;
-    /* border: 3px solid white; */
     align-items: center;
     position: absolute;
     top: 30%;
@@ -94,7 +93,7 @@
     font-size: 2rem;
     margin-bottom: 20px;
 }
-/* Work */
+/* Work Section */
 #work{
     display: flex;
     flex-direction: column;
@@ -154,6 +153,7 @@
 #send:hover{
     cursor: pointer;
 }
+/* linkedin logo */
 .social-icon{
     display: flex;
     flex-direction: column;
